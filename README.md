@@ -14,15 +14,16 @@ This is a short introduction about myself saaying my name where i live and also 
 
 
 # Folders Structure
-*CSS
 
-*IMAGES
+- CSS
 
-*VIDEOS
+- IMAGES
 
-*MY FIRST WEBPAGE.HTML
+- VIDEOS
 
-*README
+ - MY FIRST WEBPAGE.HTML
+
+- README
 
 
 
